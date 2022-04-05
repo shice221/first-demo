@@ -1,2 +1,4 @@
-package com.imooc.array;public class Sample03 {
+package com.imooc.array;
+
+public class Sample03 {
 }
