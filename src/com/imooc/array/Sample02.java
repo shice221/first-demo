@@ -18,5 +18,6 @@ public class Sample02 {
         int[][] nums2 = new int[5][5];
         // 二维数组初始化
         int[][] nums3 = new int[][]{{2},{2}};
+        System.out.println("");
     }
 }
